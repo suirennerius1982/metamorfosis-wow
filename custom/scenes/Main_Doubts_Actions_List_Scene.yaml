@@ -1,0 +1,7 @@
+onEnter:
+  staticPrompt:
+    candidates:
+    - promptResponse:
+        firstSimple:
+          variants:
+          - speech: Estas son las opciones, Costo de envíos, Envíos en CABA Gran Buenos Aires Provincia Buenos Aires y otras provincias, Medios de Pago. Cual es tu consulta?

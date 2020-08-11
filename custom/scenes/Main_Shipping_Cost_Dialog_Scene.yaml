@@ -1,0 +1,7 @@
+onEnter:
+  staticPrompt:
+    candidates:
+    - promptResponse:
+        firstSimple:
+          variants:
+          - speech: Los envios en CABA son gratis a partir de 3 prendas y al interior el costo es según la información del operador logístico

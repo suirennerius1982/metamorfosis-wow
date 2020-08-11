@@ -1,0 +1,7 @@
+intentEvents:
+- intent: actionsList
+  transitionToScene: Main_Doubts_Actions_List_Scene
+- intent: show_catalog
+  transitionToScene: Main_Send_Catalog_Dialog_Scene
+- intent: shipping_cost
+  transitionToScene: Main_Shipping_Cost_Dialog_Scene

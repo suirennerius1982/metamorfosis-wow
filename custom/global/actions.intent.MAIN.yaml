@@ -1,0 +1,8 @@
+handler:
+  staticPrompt:
+    candidates:
+    - promptResponse:
+        firstSimple:
+          variants:
+          - speech: Hola, qué bueno tenerte por aquí, somos Metamorfosis Wow!!!. Puedes consultarme sobre diferentes temas, ejemplo, cómo comprar, envíos, medios de pago, etcétera. Si querés podés escuchar el listado de preguntas frecuentes o si no decime tu consulta y veo si te puedo ayudar
+transitionToScene: Main

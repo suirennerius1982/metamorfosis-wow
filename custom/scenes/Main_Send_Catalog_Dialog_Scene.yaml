@@ -1,0 +1,7 @@
+onEnter:
+  staticPrompt:
+    candidates:
+    - promptResponse:
+        firstSimple:
+          variants:
+          - speech: Cómo queres comprar, por Mayor o por Menor?

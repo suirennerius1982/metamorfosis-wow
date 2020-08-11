@@ -1,0 +1,8 @@
+handler:
+  staticPrompt:
+    candidates:
+    - promptResponse:
+        firstSimple:
+          variants:
+          - speech: Lo siento, no te entiendo, puedes consultarme sobre aspectos de como comprar, envios, catálogos, productos, talles, etcétera?
+            text: Lo siento, no te entiendo, puedes consultarme sobre aspectos de como comprar, envios, catálogos, productos, talles, etcétera?
